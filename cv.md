@@ -27,4 +27,4 @@ My lifer
 ## Education
 higher edication, BSU MMF
 ## English
-Elemetary
+Elementary
